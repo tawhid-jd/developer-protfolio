@@ -52,12 +52,12 @@ h1{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image:linear-gradient(blue, cyan);
+    border-image:linear-gradient(orange, tomato);
     border-image-slice: 1;
 }
 #baby-dev{
     border-left: 7px solid;
-    border-image:linear-gradient(orange, tomato);
+    border-image:linear-gradient(blue, cyan);
     border-image-slice: 1;
 
 }
