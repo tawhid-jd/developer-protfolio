@@ -8,7 +8,7 @@ h1{
 .name-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -37,4 +37,16 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.experiences-item{
+    width: 40%;
+   margin-left: 5%;
+   margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
